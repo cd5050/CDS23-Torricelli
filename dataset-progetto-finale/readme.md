@@ -19,10 +19,6 @@ I dati sulla tua città messi a disposizione dal Comune
 > [Dataset](https://dati.comune.milano.it/)
 
 
-## ![Banca d'Italia](/assets/images/logo_bankitalia.jpg) Banca d'Italia
-
-L'indagine sui bilanci delle famiglie italiane
-> [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 ## 💡🇪🇺 Statistiche Eurostat sull'energia
 
