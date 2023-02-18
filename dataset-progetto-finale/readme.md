@@ -44,18 +44,6 @@ L'indagine sui bilanci delle famiglie italiane
 > [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 
-## 🇺🇦 War in Ukraina
-
-Una serie di dataset sul contesto socio-economico
-> [Dataset](https://ourworldindata.org/ukraine-war)
-
-I dati di UNHCR sui rifugiati
-> [Dataset](https://data2.unhcr.org/en/situations/ukraine)
-
-Il monitoraggio sulle sanzioni imposte alla Russia
-> [Dataset](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/)
-
-
 ## 💡🇪🇺 Statistiche Eurostat sull'energia
 
 Gli indicatori energetici più importanti e il confronto tra Italia e gli altri paesi dell'Ue
